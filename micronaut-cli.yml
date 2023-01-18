@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.mcjunit
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, cache-caffeine, data, data-jpa, hibernate-jpa, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, logback, maven, netty-server, openapi, postgres, readme, shade, spring, spring-data-jpa, spring-web, swagger-ui, test-resources, yaml]
